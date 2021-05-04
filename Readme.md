@@ -1,8 +1,8 @@
 ## Description
 
-Amy SQL database using get post put and delete requests on an application.
+An SQL database using get post put and delete requests on an application.
   
-💻 Below is the gif showing the functionality of the application:
+ Below is the gif showing the functionality of the application:
   
 (./gifs/comgif.gif)
 
