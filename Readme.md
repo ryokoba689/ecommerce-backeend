@@ -3,12 +3,14 @@
 An SQL database using get post put and delete requests on an application.
   
  Below is the gif showing the functionality of the application:
+  ![](https://raw.githubusercontent.com/ryokoba689/ecommerce-backeend/master/gifs/comgif.gif)
+
+
+
+Link to the video as I was not able to upload properly as it may be too large it is in gif format and downloadable.
   
-(./gifs/comgif.gif)
-
-
-Link to the video as I was not able to upload properly
-  (./gifs/comvid.webm)
+  ![](https://github.com/ryokoba689/ecommerce-backeend/blob/master/gifs/comvid.webm)
+ 
 ## User Story
   
 ```
@@ -36,22 +38,13 @@ THEN I am able to successfully create, update, and delete data in my database
 # Installation
 
   
-`npm init`
-
-`npm i`
-
+npm init
+npm i
 run command
-
-`mysql -u root -p`
-
-Enter PW when promted
-
-`source db/schema.sql`
-
-`quit`
-
-`npm run seed`
-  
-`npm start`
+mysql -u root -p
+Enter PW when prompted
+source db/schema.sql
+npm run seed
+npm start
 
 
